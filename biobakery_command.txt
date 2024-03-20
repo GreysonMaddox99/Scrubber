@@ -1,0 +1,1 @@
+biobakery_workflows wmgx --input <directory> --output <filename> --input-extension fastq.gz --remove-intermediate-output --bypass-strain-profiling --qc-options='--bypass-trf --remove-intermediate-output' --threads 5
